@@ -27,7 +27,7 @@ Hey there! I'm **Nadine**, a curious coder with a passion for creative problem-s
 
 ## 🔗 Let's Connect!
 - 🐙 [GitHub](https://github.com/TO-NMaag)
-- 🐦 [LinkedIn(https://de.linkedin.com/in/nico-maag-2a9b07184?trk=people-guest_people_search-card)
+- 🐦 [LinkedIn](https://de.linkedin.com/in/nico-maag-2a9b07184?trk=people-guest_people_search-card)
 
 ---
 
