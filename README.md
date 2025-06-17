@@ -1,4 +1,4 @@
-![Unicorn Header](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+![Unicorn Header](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzI1eDdmY2N2anJjbDU5OTNianp4bnllN21tY3p2c3o2ZW5hbHJ2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiQygoxOAabid9tmM/giphy.gif)
 
 # 🦄 Welcome to Nadine Hartmann's Coding Ranch! 🐴
 
