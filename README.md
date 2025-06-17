@@ -1,16 +1,36 @@
-## Hi there 👋
+![Unicorn Header](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
-<!--
-**TO-NMaag/TO-NMaag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🦄 Welcome to Nico Maag's Coding Ranch! 🐴
 
-Here are some ideas to get you started:
+Hey there! I'm **Nico**, a curious coder with a passion for creative problem-solving, C#, JavaScript, horses, and fantasy adventures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🔭 Currently learning: **C#** & **JavaScript**
+- 🐴 Hobby Wrangler: **Horseback rider** & **book lover**
+- 🤝 Sidekick in code: [@TO-koswald](https://github.com/TO-koswald) – my partner-in-pull-requests!
+- 📖 Favorite activities: Bug squashing by day, fantasy novels by night
+
+## 🌈 Code Philosophy
+> “Code like you ride – with style, precision, and zero bugs.”
+
+## 🧠 What I'm Working On
+- 📅 Automating time bookings (robots should do boring stuff!)
+- 💡 Learning design patterns and building side projects
+- 🧙 Exploring the magic of async/await and event-driven programming
+
+## 🎨 Fun Zone
+![Rainbow Horse](https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif)
+
+- 🦄 Believe in the power of **whimsical code**
+- 🐉 Dream of deploying apps with dragons (but unicorns are OK too)
+- 📚 Always one book ahead — coding tutorials *and* fantasy novels
+
+## 🔗 Let's Connect!
+- 🐙 [GitHub](https://github.com/TO-NMaag)
+- 🐦 [LinkedIn(https://de.linkedin.com/in/nico-maag-2a9b07184?trk=people-guest_people_search-card)
+
+---
+
+![Galloping Unicorn Footer](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+
+Thanks for trotting by my profile! 🌟
