@@ -1,8 +1,8 @@
 ![Unicorn Header](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
-# 🦄 Welcome to Nico Maag's Coding Ranch! 🐴
+# 🦄 Welcome to Nadine Hartmann's Coding Ranch! 🐴
 
-Hey there! I'm **Nico**, a curious coder with a passion for creative problem-solving, C#, JavaScript, horses, and fantasy adventures.
+Hey there! I'm **Nadine**, a curious coder with a passion for creative problem-solving, C#, JavaScript, horses, and fantasy adventures.
 
 ## 👨‍💻 About Me
 - 🔭 Currently learning: **C#** & **JavaScript**
